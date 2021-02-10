@@ -4,7 +4,7 @@ Amazon Lookout for Vision is a machine learning (ML) service that spots defects 
 
 ## Steps:
 
-1. Launch this cloudformation template - [<img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png">](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=l4vworkshopstack&templateURL=https://shreyasvathul.s3.us-east-2.amazonaws.com/SampleLFVTemplate.yaml)
+1. Launch this cloudformation template - [<img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png">](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=l4vworkshopstack&templateURL=https://shreyasvathul.s3.us-east-2.amazonaws.com/SampleLFVTemplate2.yaml)
 (Make sure you are in us-east-1)
 
 2. Navigate to SageMaker on your AWS console and click Notebook instances on the side menu
