@@ -24,3 +24,5 @@ Amazon Lookout for Vision is a machine learning (ML) service that spots defects 
 - Training your model
 - Evaluating your model
 - Using your model
+
+5. For EDGE Deployment, see README.md in the edge/ directory tree for further instructions
