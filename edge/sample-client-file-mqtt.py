@@ -75,7 +75,7 @@ print("Connected!")
 print('Begin Publish')
 data = "{} [{}]".format(str(messageToIotCore), 1)
 message = {"message": data,
-           "is_anomalous": response.detect_anomaly_result.is_anomalous}
+           "is_anomalous": detect_anomalies_response.detect_anomaly_result.is_anomalous}
 mqtt_connection.publish(topic=TOPIC, payload=json.dumps(
     message), qos=mqtt.QoS.AT_LEAST_ONCE)
 print("Published: '" + json.dumps(message) + "' to the topic: " + TOPIC)
