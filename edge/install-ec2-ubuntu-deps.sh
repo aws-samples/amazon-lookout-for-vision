@@ -2,7 +2,7 @@
 sudo apt install cmake
 sudo apt install python3
 sudo apt install python3-pip
-sudo apt install awscli
+audo apt install awscli
 sudo apt install software-properties-common
 sudo add-apt-repository --yes ppa:deadsnakes/ppa
 sudo apt update
