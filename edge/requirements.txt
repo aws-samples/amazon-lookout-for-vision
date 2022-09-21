@@ -8,5 +8,5 @@ protobuf==3.19.1
 python-dateutil==2.6.1
 pytz==2018.3
 requests-unixsocket==0.1.5
-simplejson==3.13.2
+#simplejson==3.13.2 # you can uncomment this on ec2, comment out on jetson device
 
