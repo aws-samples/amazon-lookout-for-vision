@@ -1,3 +1,6 @@
+| :rotating_light: **ALERT**: End of support notice: On October 31, 2025, AWS will discontinue support for Amazon Lookout for Vision. After October 31, 2025, you will no longer be able to access the Lookout for Vision console or Lookout for Vision resources. For more information, visit this [blog post](https://aws.amazon.com/blogs/machine-learning/exploring-alternatives-and-seamlessly-migrating-data-from-amazon-lookout-for-vision). :rotating_light:|
+| --- |
+
 # Lookout for Vision Workshop
 
 Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of objects at scale. This workshop is intended to run through an end to end example of using the boto3 python SDK to train and host Lookout for Vision models. For a console-only getting started guide, see https://docs.aws.amazon.com/lookout-for-vision/latest/developer-guide/getting-started.html
