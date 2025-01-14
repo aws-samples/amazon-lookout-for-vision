@@ -3,7 +3,7 @@
 
 # Lookout for Vision Workshop
 
-> :warning: **To migrate from LFV to SageMaker algorithm, STOP reading and following nobotebook in this folder: https://github.com/aws-samples/amazon-lookout-for-vision/tree/main/computer-vision-defect-detection**
+> :warning: **To migrate from LFV to SageMaker algorithm, STOP reading and following notebook in this folder: https://github.com/aws-samples/amazon-lookout-for-vision/tree/main/computer-vision-defect-detection**
 
 
 Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of objects at scale. This workshop is intended to run through an end to end example of using the boto3 python SDK to train and host Lookout for Vision models. For a console-only getting started guide, see https://docs.aws.amazon.com/lookout-for-vision/latest/developer-guide/getting-started.html
